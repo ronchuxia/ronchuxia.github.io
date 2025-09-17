@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Creating Github Pages with Jekyll"
-date:   2025-09-12 10:47:00 -0400
-categories: jekyll update
+date:   2025-09-12 22:47:00 -0400
+categories: Web
 ---
 I created a github page using Jekyll today. Here are some concepts that are a little confusing.
 
