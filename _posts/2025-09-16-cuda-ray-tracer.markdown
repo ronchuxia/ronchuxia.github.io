@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CUDA Ray Tracer"
-date:   2025-09-17 10:20:00 -0400
+date:   2025-09-16 10:20:00 -0400
 categories: CUDA
 ---
 During the weekend, I implemented a simple ray tracer using CUDA. The code is available on [Github](https://github.com/ronchuxia/RayTracingCUDA.git).
