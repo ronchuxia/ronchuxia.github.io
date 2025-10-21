@@ -2,7 +2,7 @@
 layout: post
 title:  "Point Cloud Previewer"
 date:   2025-09-26 11:00:00 -0400
-categories: CUDA
+categories: 3D
 ---
 I implemented a simple point cloud previewer with fly mode navigation and camera switching using open3D. The code is available on [Github](https://github.com/ronchuxia/PointCloudPreviewer).
 
